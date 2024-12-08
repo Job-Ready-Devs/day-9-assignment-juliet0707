@@ -1,0 +1,15 @@
+{
+  "name": "day-9-assignment-juliet0707",
+  "version": "1.0.0",
+  "description": "Welcome to Day-9 of the **Job-Ready Devs 30-Day Challenge!** 🎉 Today, we’ll dive into **Node.js**, the powerful runtime environment that allows JavaScript to run on the server. By setting up a basic Node.js server, you’ll lay the foundation for handling dynamic requests, serving files, and more in the upcoming lessons.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
